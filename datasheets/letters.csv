@@ -1292,7 +1292,7 @@ line_number	ms_number	folio_number	start_time	end_time	direction	correspondant	o
 1290	2579	471-476	1868	1868	to_Chabas	Goodwin, C. Wycliffe	
 1291	2579	477-480	1868	1868	to_Chabas	Horrack-Lockwood, Lizzie W. de	
 1292	2579	481-484	1868	1868	to_Chabas	Grasset aîné	
-1293	2579	485	1868	1868			"Facture des tirages de mon mémoire sur les Pasteurs"
+1293	2579	485	1868	1868			Facture des tirages de mon mémoire sur les Pasteurs
 1294	2579	486-489	1868	1868	to_Chabas	Leemans, Conrad	
 1295	2579	490-491	1868	1868	to_Chabas	Horrack, Jacques de	
 1296	2579	492-495	1868	1868	from_Chabas	Horrack-Lockwood, Lizzie W. de	
@@ -1497,7 +1497,7 @@ line_number	ms_number	folio_number	start_time	end_time	direction	correspondant	o
 1493	2580	798-805	1869	1869	to_Chabas	Leemans, Conrad	
 1494	2580	806-809	1869	1869	to_Chabas	Lefébure, Eugène	
 1495	2580	810-811	1869	1869	to_Chabas	Pino, A.	
-1496	2580	812	1869	1869			Note "Frais de la guerre d'Allemagne" 
+1496	2580	812	1869	1869			Note 'Frais de la guerre d'Allemagne' 
 1497	2581	1-4	1870	1870	to_Chabas	Horrack, Jacques de	
 1498	2581	5-5bis	1870	1870			Copie d'un extrait du Brugsch dictionnary
 1499	2581	6-9	1870	1870	from_Chabas	Horrack-Lockwood, Lizzie W. de	
@@ -1637,7 +1637,7 @@ line_number	ms_number	folio_number	start_time	end_time	direction	correspondant	o
 1628	2582	544-545	1871	1871	to_Chabas	Lesne, L.	
 1629	2582	546-550	1871	1871	to_Chabas	Menand, Émile	
 1630	2582	551-552	1871	1871			La même, en imprimé
-1631	2582	553	1871	1871			Élections à l'Assemblée nationale "Liste républicaine"
+1631	2582	553	1871	1871			Élections à l'Assemblée nationale 'Liste républicaine'
 1632	2582	554-557	1871	1871	to_Chabas	Rossi, Emilia	
 1633	2582	558-561	1871	1871	to_Chabas	Devéria (Madame)	
 1634	2582	562-565	1871	1871	to_Chabas	Rossi, Francesco	
@@ -1805,7 +1805,7 @@ line_number	ms_number	folio_number	start_time	end_time	direction	correspondant	o
 1795	2582	1189-1192	1871	1871			Article de journal sur la paix
 1796	2582	1193-1194	1871	1871			Les parvenus de l'émeute
 1797	2582	1195-1202	1871	1871	to_Chabas	Bosredon (comte de)	
-1798	2582	1203-1204	1871	1871			"Séance de la Commune de Paris…"
+1798	2582	1203-1204	1871	1871			«&nbsp;Séance de la Commune de Paris…&nbsp;»
 1799	2582	1205-1208	1871	1871			Article du Salut public de Lyon
 1800	2582	1209-1210	1871	1871			Le programme de l'Internationale
 1801	2582	1210bis	1871	1871			Article de journal
@@ -2121,7 +2121,7 @@ line_number	ms_number	folio_number	start_time	end_time	direction	correspondant	o
 2108	2584	404-407	1873	1873	to_Chabas	Bulliot, Jacques-Gabriel	
 2109	2584	408-411	1873	1873	to_Chabas	Lefébure, Eugène	
 2110	2584	412-413	1873	1873	to_Chabas	Ricard, P.	
-2111	2584	414	1873	1873			Liste intitulée "Envoyé à Prisse"
+2111	2584	414	1873	1873			Liste intitulée «&nbsp;Envoyé à Prisse&nbsp;»
 2112	2584	415-418	1873	1873	to_Chabas	Prisse d'Avennes, Émile	
 2113	2584	419-422	1873	1873	to_Chabas	Schneider, Valdemar	
 2114	2584	423-430	1873	1873	to_Chabas	Horrack-Lockwood, Lizzie W. de	
@@ -2312,7 +2312,7 @@ line_number	ms_number	folio_number	start_time	end_time	direction	correspondant	o
 2298	2585	271-274	1874	1874	to_Chabas	Naville, Édouard	
 2299	2585	275-282	1874	1874	to_Chabas	Horrack, Jacques de	
 2300	2585	283-286	1874	1874	to_Chabas	Aniéré, C.	
-2301	2585	287	1874	1874			"Page du papyrus de Ebers"
+2301	2585	287	1874	1874			«&nbsp;Page du papyrus de Ebers&nbsp;»
 2302	2585	288-291	1874	1874	to_Chabas	Ebers, Georg	
 2303	2585	292-295	1874	1874	to_Chabas	Horrack, Jacques de	
 2304	2585	296-299	1874	1874	from_Chabas	ministre de l'Instruction publique	
@@ -2704,7 +2704,7 @@ line_number	ms_number	folio_number	start_time	end_time	direction	correspondant	o
 2690	2586	885-898	1875	1875	to_Chabas	Bailleau, Joseph	
 2691	2586	899-902	1875	1875	to_Chabas	Pérod	
 2692	2586	903-906bis	1875	1875	to_Chabas	Bailleau, Joseph	
-2693	2586	907-908	1875	1875			Figure : "Fragments de silex de Volgn…"
+2693	2586	907-908	1875	1875			Figure : «&nbsp;Fragments de silex de Volgn…&nbsp;»
 2694	2586	909-916	1875	1875	to_Chabas	Pérod	
 2695	2586	917-920	1875	1875			???
 2696	2586	921-924	1875	1875	to_Chabas	Chevrier, Jules	
