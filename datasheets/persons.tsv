@@ -27,7 +27,7 @@ sorting number	name	instance of	date of birth	date of death	sex	occupation or do
 26	Baillet, Auguste	human	1834	1923	male	egyptologist ; archivist ; magistrate	France	https://catalogue.bnf.fr/ark:/12148/cb134803013	https://data.bnf.fr/ark:/12148/cb134803013	https://www.wikidata.org/wiki/Q34474200	http://isni.org/isni/0000000006506353	http://viaf.org/viaf/161262	https://cths.fr/an/savant.php?id=1680	yes	
 27	Baillet, Ch.	human	unknown	unknown	unknown	unknown	unknown							no	
 28	Barack, Karl August	human	1827	1900	male	librarian	Germany	https://catalogue.bnf.fr/ark:/12148/cb123782090	https://data.bnf.fr/ark:/12148/cb123782090	https://www.wikidata.org/wiki/Q1730339	http://isni.org/isni/0000000120207146	http://viaf.org/viaf/9929094	https://cths.fr/an/savant.php?id=101289	no	
-29	Barbier	human	1800	1874	male	politician	France ; Paris			https://www.wikidata.org/wiki/Q16669944				no	Customs director general (directeur général des Douanes)
+29	Barbier	human	1800	1874	male	politician	France ; Paris			https://www.wikidata.org/wiki/Q16669944				no	Customs director general ('directeur général des Douanes')
 30	Baroche, Pierre Jules	human	1802	1870	male	lawyer ; politician	France ; Paris	https://catalogue.bnf.fr/ark:/12148/cb14435719k	https://data.bnf.fr/ark:/12148/cb14435719k	https://www.wikidata.org/wiki/Q3385651	http://isni.org/isni/0000000115570274	http://viaf.org/viaf/66683795		no	
 31	Barty, P.	human	unknown	unknown	male	writer	France							no	Editor from the République française
 32	Barucchi, Francesco	human	1801	1869	male	professor ; historian ; curator ; egyptologist	Italy			https://www.wikidata.org/wiki/Q59711478	http://isni.org/isni/0000000036754921	http://viaf.org/viaf/70780615		no	Director of the Museo Egizio; has written on Egyptian chronology (https://gallica.bnf.fr/ark:/12148/bpt6k6250056f/f102.item)
@@ -97,7 +97,7 @@ sorting number	name	instance of	date of birth	date of death	sex	occupation or do
 96	Chabas, P.	human	unknown	unknown	unknown	unknown	France ; Saône-et-Loire							no	From Chalon-sur-Saône (Saône-et-Loire)
 97	Chagot, Charles	human	unknown	unknown	male	unknown	unknown							no	
 98	Chagot, Jules	human	1801	unknown	male	businessman ; politician	France ; Saône-et-Loire			https://www.wikidata.org/wiki/Q30127849				no	
-99	Chancelier de la Légion d'honneur	human	1785	1870	male	diplomat ; politician ; military officer	France ; Paris	https://catalogue.bnf.fr/ark:/12148/cb15003770p ; https://catalogue.bnf.fr/ark:/112662048	https://data.bnf.fr/ark:/12148/cb15003770p ; https://data.bnf.fr/ark:/112662048	https://www.wikidata.org/wiki/Q375068	http://isni.org/isni/0000000079620544	http://viaf.org/viaf/59474922		no	
+99	Chancellerie de la Légion d'honneur	organisation	unknown	unknown	no		France ; Paris							no	
 100	Chancellerie de la légation des Pays-Bas	organisation	unknown	unknown	no	diplomat	France			https://www.wikidata.org/wiki/Q2841848				no	
 101	Changarnier-Moissenet, A.	human	unknown	unknown	male	numismatist	France							no	Numismatist
 102	Chantre, Ernest	human	1843	1924	male	anthropologist ; archaeologist ; professor ; geologist ; naturalist ; curator ; photographer	France ; Rhône	https://catalogue.bnf.fr/ark:/12148/cb12198207c	https://data.bnf.fr/ark:/12148/cb12198207c	https://www.wikidata.org/wiki/Q3056891	http://isni.org/isni/0000000122776940	http://viaf.org/viaf/27113208	https://cths.fr/an/savant.php?id=787	no	
@@ -459,7 +459,7 @@ sorting number	name	instance of	date of birth	date of death	sex	occupation or do
 459	Wagner (abbé)	human	unknown	unknown	male	priest	France							no	BiÉg 9, p. CLII cites abbot Wagner, from Pontlevoy, as one of the last disciples of Chabas with Virey; from Les Montils (Loir-et-Cher)
 460	Wallon, Henri	human	1812	1904	male	politician ; historian ; professor	France ; Paris	https://catalogue.bnf.fr/ark:/12148/cb12120402t	https://data.bnf.fr/ark:/12148/cb12120402t	https://www.wikidata.org/wiki/Q589355	http://isni.org/isni/0000000109087198	http://viaf.org/viaf/64038562	https://cths.fr/an/savant.php?id=105100#	?	
 461	Watteville, Oscar de	human	1824	1901	male	civil servant	France	https://catalogue.bnf.fr/ark:/12148/cb12574020b	https://data.bnf.fr/ark:/12148/cb12574020b	https://www.wikidata.org/wiki/Q47408292	http://isni.org/isni/0000000111987320	http://viaf.org/viaf/56989662	https://cths.fr/an/savant.php?id=1432	no	Given in brackets by the catalogue
-462	Woodward, B.B. [Bernard Bolingbroke]	human	1816	1869	male	librarian	United Kingdom			https://www.wikidata.org/wiki/Q4892939				no	
+462	Woodward, B.B.	human	1816	1869	male	librarian	United Kingdom			https://www.wikidata.org/wiki/Q4892939				no	
 463	Wright, Bryce M.	human	unknown	unknown	male	naturalist	Belgium							no	Member of the Société malacologique de Belgique
 464	Wrobleski, Émile 	human	1835	1912	male	artist	France ; Burgundy	https://catalogue.bnf.fr/ark:/12148/cb16445253v	https://data.bnf.fr/ark:/12148/cb16445253v					no	Attribution to check?
 465	Young, Liston	human	unknown	unknown	male	unknown	United Kingdom							no	From London (United Kingdom)
