@@ -234,7 +234,7 @@ sorting number	name	instance of	date of birth	date of death	sex	occupation or do
 233	L'Année	organisation	unknown	unknown	no	unknown	France							no	
 234	L'Année archéologique et philologique	organisation	unknown	unknown	no	unknown	France							no	
 235	Napoléon III	human	1808	1873	male	politician ; monarch	France	https://catalogue.bnf.fr/ark:/12148/cb12462544v	https://data.bnf.fr/ark:/12148/cb12462544v	https://www.wikidata.org/wiki/Q7721	http://isni.org/isni/0000000121429066	http://viaf.org/viaf/88934487		no	
-236	L'un des directeurs du Polyibiblion	organisation	unknown	unknown	male	unknown	France	https://catalogue.bnf.fr/ark:/12148/cb32841049f	https://data.bnf.fr/ark:/12148/cb32841049f	https://www.wikidata.org/wiki/Q28955652				no	
+236	L'un des directeurs du Polyibiblion	position	unknown	unknown	male	unknown	France	https://catalogue.bnf.fr/ark:/12148/cb32841049f	https://data.bnf.fr/ark:/12148/cb32841049f	https://www.wikidata.org/wiki/Q28955652				no	
 237	La Loyère, Monsieur et Mme P. de	human	unknown	unknown	unknown	unknown	unknown							no	
 238	La Saussaye, Louis de	human	1801	1878	male	numismatist ; historian ; librarian ; politician	France ; Rhône	https://catalogue.bnf.fr/ark:/12148/cb13174371h	https://data.bnf.fr/ark:/12148/cb13174371h	https://www.wikidata.org/wiki/Q3263501	http://isni.org/isni/0000000122816981	http://viaf.org/viaf/71531035	https://cths.fr/an/savant.php?id=107598	no	
 239	Lalanne, Ludovic	human	1815	1898	male	librarian ; historian	France ; Paris	https://catalogue.bnf.fr/ark:/12148/cb124250880	https://data.bnf.fr/ark:/12148/cb124250880	https://www.wikidata.org/wiki/Q3266138	http://isni.org/isni/0000000108565258	http://viaf.org/viaf/34547903	https://cths.fr/an/savant.php?id=802	no	
@@ -305,7 +305,7 @@ sorting number	name	instance of	date of birth	date of death	sex	occupation or do
 304	Mézières, Alfred	human	1826	1915	male	politician ; writer ; historian	France ; Paris	https://catalogue.bnf.fr/ark:/12148/cb12425466s	https://data.bnf.fr/ark:/12148/cb12425466s	https://www.wikidata.org/wiki/Q2835365	http://isni.org/isni/0000000120956403	http://viaf.org/viaf/14861984	https://cths.fr/an/savant.php?id=110931	no	
 305	Michelant, Henry	human	1811	1890	male	librarian ; historian ; writer	France ; Paris	https://catalogue.bnf.fr/ark:/12148/cb12459770f	https://data.bnf.fr/ark:/12148/cb12459770f	https://www.wikidata.org/wiki/Q1516979			https://cths.fr/an/savant.php?id=625#	no	
 306	ministre de l'Instruction publique	position	unknown	unknown	male	politician	France ; Paris							no	
-307	Ministère de l'Instruction publique	organisation	unknown	unknown	male	politician	France ; Paris							no	
+307	Ministère de l'Instruction publique	organisation	unknown	unknown	no		France ; Paris							no	
 308	Ministre d'État	position	unknown	unknown	male	unknown	unknown							no	
 309	Ministre de France aux Pays-Bas	position	unknown	unknown	male	diplomat	France							no	
 310	Ministre des Pays-Bas à Paris	human	1795	1873	male	politician ; diplomat ; lawyer	Netherlands			https://www.wikidata.org/wiki/Q1819131	http://isni.org/isni/0000000390857309	http://viaf.org/viaf/284607568		no	
