@@ -411,7 +411,7 @@ line_number	ms_number	folio_number	start_time	end_time	direction	correspondant
 415	2574	436-439	1862	1862	to_Chabas	Horrack, Jacques de
 416	2574	440-443	1862	1862	from_Chabas	Horrack, Jacques de
 417	2574	444-455	1862	1862	to_Chabas	Horrack, Jacques de
-418	2574	456-459	1862	1862	to_Chabas	Guigniant, Joseph-Daniel
+418	2574	456-459	1862	1862	to_Chabas	Guigniaut, Joseph-Daniel
 419	2574	460-483	1862	1862	to_Chabas	Horrack, Jacques de
 420	2574	484-487	1862	1862	to_Chabas	Rougé, Emmanuel de
 421	2574	488-491	1862	1862	from_Chabas	Rougé, Emmanuel de
@@ -593,14 +593,14 @@ line_number	ms_number	folio_number	start_time	end_time	direction	correspondant
 602	2575	384-387	1863	1863	to_Chabas	Goodwin, C. Wycliffe
 603	2575	388-389	1863	1863	to_Chabas	Birch, Samuel
 604	2575	390-397	1863	1863	to_Chabas	Goodwin, C. Wycliffe
-605	2575	398-401	1863	1863	from_Chabas	Guigniant, Joseph-Daniel
+605	2575	398-401	1863	1863	from_Chabas	Guigniaut, Joseph-Daniel
 606	2575	402-405	1863	1863	to_Chabas	Duprat, Benjamin
 607	2575	406-409	1863	1863	from_Chabas	La Saussaye, Louis de
 608	2575	410-413	1863	1863	to_Chabas	La Saussaye, Louis de
 609	2575	414-417	1863	1863	from_Chabas	La Saussaye, Louis de
 610	2575	418-421	1863	1863	to_Chabas	Goodwin, C. Wycliffe
 611	2575	422-425	1863	1863	to_Chabas	La Saussaye, Louis de
-612	2575	426-429	1863	1863	to_Chabas	Guigniant, Joseph-Daniel
+612	2575	426-429	1863	1863	to_Chabas	Guigniaut, Joseph-Daniel
 613	2575	430-437	1863	1863	to_Chabas	Dureau, Alexis
 614	2575	438-441	1863	1863	to_Chabas	Saulcy, de
 615	2575	442-446	1863	1863	to_Chabas	Leemans, Conrad
@@ -610,11 +610,11 @@ line_number	ms_number	folio_number	start_time	end_time	direction	correspondant
 619	2575	459-462	1863	1863	to_Chabas	Hincks, Edward
 620	2575	463-466	1863	1863	to_Chabas	Horrack, Jacques de
 621	2575	467-470	1863	1863	to_Chabas	Cailliaud, Fernand
-622	2575	471-472	1863	1863	to_Chabas	Guigniant, Joseph-Daniel
+622	2575	471-472	1863	1863	to_Chabas	Guigniaut, Joseph-Daniel
 623	2575	473-476	1863	1863	to_Chabas	Chagot, Jules
 624	2575	477-480	1863	1863	to_Chabas	Hincks, Edward
 625	2575	481-484	1863	1863	from_Chabas	Egger, Émile
-626	2575	485-486	1863	1863	to_Chabas	Guigniant, Joseph-Daniel
+626	2575	485-486	1863	1863	to_Chabas	Guigniaut, Joseph-Daniel
 627	2575	487-489	1863	1863	from_Chabas	Hincks, Edward
 628	2575	490-497	1863	1863	to_Chabas	Egger, Émile
 629	2575	498-501	1863	1863	from_Chabas	Malan, Solomon Caesar
@@ -1639,7 +1639,7 @@ line_number	ms_number	folio_number	start_time	end_time	direction	correspondant
 1676	2582	758-761	1871	1871	to_Chabas	Leemans, Conrad
 1677	2582	761-764	1871	1871	to_Chabas	Académie des inscriptions et belles-lettres
 1678	2582	765-768	1871	1871	from_Chabas	Le Secrétaire perpétuel de l'Académie des Inscriptions et Belles Lettres
-1679	2582	769-772	1871	1871	from_Chabas	Guigniant, Joseph-Daniel
+1679	2582	769-772	1871	1871	from_Chabas	Guigniaut, Joseph-Daniel
 1680	2582	773-776	1871	1871	to_Chabas	Goodwin, C. Wycliffe
 1681	2582	777-780	1871	1871	to_Chabas	Longpérier, Adrien de
 1682	2582	781-784	1871	1871	from_Chabas	Longpérier, Adrien de
